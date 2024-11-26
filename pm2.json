@@ -2,7 +2,7 @@
     "apps": [
         {
             "name": "RedisRLApp",
-            "script": "./server/index.js",
+            "script": "index.html",
             "watch": false,
             "env_production": {
                 "NODE_ENV": "production"
